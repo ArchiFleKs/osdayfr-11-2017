@@ -1,0 +1,6 @@
+    bay-create          Create a bay.
+    container-create    Create a container.
+    node-create         Create a node.
+    pod-create          Create a pod.
+    rc-create           Create a replication controller.
+    service-create      Create a service.
